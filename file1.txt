@@ -2,4 +2,8 @@ Hello World
 Change Added for File
 tushar gangurde
 to set bug 1
+<<<<<<< HEAD
 change 1
+=======
+bug to created
+>>>>>>> bug2
